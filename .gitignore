@@ -1,0 +1,5 @@
+.Rproj.user/
+output/
+raw-data/
+.Rhistory
+*.docx
